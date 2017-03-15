@@ -8,6 +8,12 @@ public class CameraController : MonoBehaviour {
 
 	private Vector3 offset; //for camera
 
+
+	//public static T instance == null; 
+	//void Awake() 
+	//{ 
+		//if (instance == null) instance = this; else Destroy (transform.gameObject); DontDestroyOnLoad (transform.gameObject); }
+
 	void Start () {
 		offset = transform.position - player.transform.position; //sets camera to specific position
 		

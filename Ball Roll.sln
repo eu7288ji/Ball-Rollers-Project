@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{9D15243A-BC87-D492-046A-851BF460F2C9}") = "Ball Roll", "Assembly-CSharp.csproj", "{2CBFC9E7-B001-F6AB-538D-8289037213B4}"
 EndProject
+Project("{9D15243A-BC87-D492-046A-851BF460F2C9}") = "Ball Roll", "Assembly-CSharp-Editor.csproj", "{BFCE63E3-8968-197B-6E0F-71C690E28068}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{2CBFC9E7-B001-F6AB-538D-8289037213B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CBFC9E7-B001-F6AB-538D-8289037213B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CBFC9E7-B001-F6AB-538D-8289037213B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFCE63E3-8968-197B-6E0F-71C690E28068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCE63E3-8968-197B-6E0F-71C690E28068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCE63E3-8968-197B-6E0F-71C690E28068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCE63E3-8968-197B-6E0F-71C690E28068}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
